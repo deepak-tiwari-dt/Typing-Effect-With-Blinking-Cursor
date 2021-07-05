@@ -1,4 +1,4 @@
-# Typing Effect with Blinking Cursor
+# Typing Effect With Blinking Cursor
 
 Text Animation using HTML and CSS.
 
